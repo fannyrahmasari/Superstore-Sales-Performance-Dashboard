@@ -2,6 +2,8 @@
 
 # 📊 Dashboard Penjualan & Kinerja Superstore
 
+![Superstore Sales   Performance Dashboard_page-0001](https://github.com/user-attachments/assets/3fb92eb9-6727-4b10-b156-e5aa5640f2c4)
+
 # 📌 Gambaran Proyek
 
 Repositori ini berisi dashboard Tableau yang dirancang untuk menganalisis penjualan dan kinerja dataset Superstore. Dashboard ini memberikan wawasan utama tentang tren penjualan, margin keuntungan, segmentasi pelanggan, dan efisiensi pengiriman.
